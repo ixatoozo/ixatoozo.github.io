@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ixatoozo.github.io/HjM/sitemap_index.txt
+Sitemap: https://ixatoozo.github.io/iLy/sitemap_index.txt
+Sitemap: https://ixatoozo.github.io/nrq/sitemap_index.txt
+Sitemap: https://ixatoozo.github.io/onl/sitemap_index.txt
